@@ -22,6 +22,8 @@ My projects:
 
 🐱 https://github.com/grzywkaplrks/EraLasera
 
+<img width="125" height="125" alt="CachyOS_Logo svg (3)" src="https://github.com/user-attachments/assets/fa4ab795-76ac-495e-98c0-0a80b2152d8c" /> 
+
 <img width="1920" height="1080" alt="Przechwycenie obrazu ekranu_2026-01-23_02-01-39" src="https://github.com/user-attachments/assets/5e23417e-03a6-4ed4-919f-aa5f7eb48a60" />
 
 <img width="1920" height="1080" alt="Przechwycenie obrazu ekranu_2026-01-23_02-01-53" src="https://github.com/user-attachments/assets/934652b3-b98f-4225-8694-7daa178d5912" />
