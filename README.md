@@ -1,6 +1,7 @@
 My projects:
 
 🌏 www.grzywacztech.pl 
+
 🌏 www.eralasera.pl 
 
 <img width="1920" height="1080" alt="Przechwycenie obrazu ekranu_2026-01-23_02-01-39" src="https://github.com/user-attachments/assets/5e23417e-03a6-4ed4-919f-aa5f7eb48a60" />
