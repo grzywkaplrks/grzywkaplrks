@@ -12,11 +12,11 @@ Nazywam się Bartłomiej i od wielu lat pasjonuję się technologią. Jestem ent
 
 My projects:
 
+<img width="128" height="128" alt="github" src="https://github.com/user-attachments/assets/b014ab23-460a-4029-bb6c-925134e87c6d" />
+
 🔮 www.grzywacztech.pl
 
 🔮 www.eralasera.pl
-
-<img width="128" height="128" alt="github" src="https://github.com/user-attachments/assets/b014ab23-460a-4029-bb6c-925134e87c6d" />
 
 🐱 https://github.com/grzywkaplrks/GrzywaczTech
 
