@@ -10,7 +10,7 @@ Nazywam się Bartłomiej i od wielu lat pasjonuję się technologią. Jestem ent
 
 🌐 www.eralasera.pl
 
-My projects:
+📝 My projects:
 
 <img width="128" height="128" alt="github" src="https://github.com/user-attachments/assets/b014ab23-460a-4029-bb6c-925134e87c6d" />
 
