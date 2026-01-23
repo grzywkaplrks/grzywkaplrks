@@ -1,6 +1,3 @@
-Master's student at Wroclaw University of Health and Sport Sciences🏄‍♂️
-![logoawf](https://github.com/user-attachments/assets/54c67869-ba30-42e9-9c1f-d666a505f3a4)
-
 My projects:
 
 🌏 www.grzywacztech.pl 
