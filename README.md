@@ -12,9 +12,13 @@ Nazywam się Bartłomiej i od wielu lat pasjonuję się technologią. Jestem ent
 
 My projects:
 
-🔮 www.grzywacztech.pl 
+🔮 www.grzywacztech.pl
 
-🔮 www.eralasera.pl 
+https://github.com/grzywkaplrks/GrzywaczTech
+
+🔮 www.eralasera.pl
+
+https://github.com/grzywkaplrks/EraLasera-Damian-Drzewoski
 
 <img width="1920" height="1080" alt="Przechwycenie obrazu ekranu_2026-01-23_02-01-39" src="https://github.com/user-attachments/assets/5e23417e-03a6-4ed4-919f-aa5f7eb48a60" />
 
