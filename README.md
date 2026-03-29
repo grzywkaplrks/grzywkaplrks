@@ -39,3 +39,5 @@ Nazywam się Bartłomiej i od wielu lat pasjonuję się technologią. Jestem ent
 <img width="1920" height="1080" alt="Przechwycenie obrazu ekranu_2026-01-23_02-01-39" src="https://github.com/user-attachments/assets/5e23417e-03a6-4ed4-919f-aa5f7eb48a60" />
 
 <img width="1920" height="1080" alt="Przechwycenie obrazu ekranu_2026-01-23_02-01-53" src="https://github.com/user-attachments/assets/934652b3-b98f-4225-8694-7daa178d5912" />
+
+<img width="1920" height="1080" alt="Zrzut ekranu_20260329_233506" src="https://github.com/user-attachments/assets/2a6b1da3-c4e5-401a-bce5-b1ed6bd25ce8" />
