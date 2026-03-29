@@ -18,6 +18,8 @@ Nazywam się Bartłomiej i od wielu lat pasjonuję się technologią. Jestem ent
 
 🔮 www.eralasera.pl
 
+🔮 mordymiska.pages.dev
+
 🐱 https://github.com/grzywkaplrks/GrzywaczTech
 
 🐱 https://github.com/grzywkaplrks/EraLasera
