@@ -24,13 +24,15 @@ Nazywam się Bartłomiej i od wielu lat pasjonuję się technologią. Jestem ent
 
 🐱 https://github.com/grzywkaplrks/EraLasera
 
+🐱 https://github.com/grzywkaplrks/Mordy-Miska
+
 👨🏻‍💻 Work environment:
 
 🐧 https://cachyos.org/
 
 <img width="125" height="125" alt="CachyOS_Logo svg (3)" src="https://github.com/user-attachments/assets/fa4ab795-76ac-495e-98c0-0a80b2152d8c" /> 
 
-🖥️ CachyOS KDE
+🖥️ Win11 Pro / CachyOS KDE
 
 💻 CachyOS KDE
 
