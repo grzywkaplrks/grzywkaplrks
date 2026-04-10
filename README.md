@@ -2,6 +2,10 @@
 
 Nazywam się Bartłomiej i od wielu lat pasjonuję się technologią. Jestem entuzjastą systemów Linux oraz Windows, a swoją pasję łączę z wiedzą, doświadczeniem i zaangażowaniem, by świadczyć kompleksowe usługi informatyczne. Tworzę nowoczesne strony internetowe, pomagam w pisaniu prac dyplomowych oraz oferuję szeroki zakres usług komputerowych – od składania i optymalizacji komputerów, poprzez instalację systemów i oprogramowania, aż po doradztwo w zakresie doboru sprzętu. Moim celem jest dostarczanie niezawodnych, nowoczesnych i indywidualnie dopasowanych rozwiązań, które ułatwiają codzienną pracę i wspierają rozwój moich klientów.
 
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
+
 📞 790 260 595
 
 ✉️ grzywacztech@gmail.com
