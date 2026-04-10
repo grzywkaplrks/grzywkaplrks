@@ -1,4 +1,4 @@
-# <p align="center">🚀 Bartłomiej Grzywacz</p>
+# <p align="center">Bartłomiej Grzywacz</p>
 <p align="center">
   <strong>ML to Code Developer | Web Developer | Linux & Windows Architecture Enthusiast</strong>
 </p>
