@@ -9,9 +9,9 @@
 ---
 
 ### 👨🏻‍💻 About Me
-I am a passionate **ML to Code Developer** with years of experience in the technology sector. My work bridges the gap between advanced Machine Learning models and functional, high-quality code. 
+I am an **ML to Code Developer** focused on bridging the gap between advanced Machine Learning models and functional, high-quality code. 
 
-As a Linux and Windows enthusiast, I combine deep technical knowledge with a commitment to delivering reliable, modern, and tailor-made IT solutions. My goal is to empower clients by simplifying their daily workflows through innovative technology.
+As a Linux and Windows enthusiast, I combine technical curiosity with a commitment to delivering reliable, modern, and tailor-made IT solutions. My goal is to support clients by simplifying their daily workflows through the effective use of innovative technology.
 
 **What I do:**
 * 🚀 **Web Development:** Creating modern, responsive websites.
