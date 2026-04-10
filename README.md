@@ -1,5 +1,5 @@
 # 🌐 Bartłomiej Grzywacz | GrzywaczTech
-### ML to Code Developer | IT Solutions Expert | Tech Enthusiast
+### ML to Code Developer | Web Developer | Tech Enthusiast
 
 <p align="left">
   <a href="https://www.grzywacztech.pl"><img src="https://img.shields.io/badge/Website-grzywacztech.pl-blue?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
@@ -11,7 +11,7 @@
 ### 👨🏻‍💻 About Me
 I am an **ML to Code Developer** focused on bridging the gap between advanced Machine Learning models and functional, high-quality code. 
 
-As a Linux and Windows enthusiast, I combine technical curiosity with a commitment to delivering reliable, modern, and tailor-made IT solutions. My goal is to support clients by simplifying their daily workflows through the effective use of innovative technology.
+As a Linux and Windows enthusiast, I combine technical curiosity with a commitment to delivering reliable, modern, and tailor-made digital solutions. My goal is to support clients by simplifying their daily workflows through the effective use of innovative technology.
 
 **What I do:**
 * 🚀 **Web Development:** Creating modern, responsive websites.
