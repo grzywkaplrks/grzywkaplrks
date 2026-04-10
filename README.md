@@ -10,17 +10,17 @@
 
 ---
 
-### 👨🏻‍💻 About Me
-I am a specialized **ML to Code Developer** dedicated to bridging the gap between advanced Machine Learning models and high-performance, functional code. My approach combines technical curiosity with a commitment to delivering tailor-made digital solutions that simplify complex workflows.
+### 👨🏻‍💻 Professional Profile
+I am a specialized **ML to Code Developer** focused on the synergy between advanced Machine Learning models and high-performance software engineering. By integrating AI into the development workflow, I deliver robust, modern, and scalable digital solutions.
 
-* 🚀 **Web Development:** Crafting modern, responsive, and user-centric websites.
-* 🤖 **AI Integration:** Leveraging state-of-the-art ML models to accelerate and optimize software development.
-* 🛠️ **System Architecture:** Expert in building and optimizing high-performance workstations across Linux and Windows platforms.
+* 🚀 **Web Development:** Creating high-end, responsive digital experiences.
+* 🤖 **AI Integration:** Implementing ML workflows to optimize code generation and logic.
+* 🛠️ **System Engineering:** Configuring ultra-stable, high-performance Linux and Windows environments.
 
 ---
 
-### 🧠 AI Stack & Intelligence
-I harness the power of top-tier AI models to solve complex coding challenges and drive innovation:
+### 🧠 Advanced AI Stack
+Utilizing state-of-the-art intelligence to drive innovation and efficiency:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
@@ -33,11 +33,11 @@ I harness the power of top-tier AI models to solve complex coding challenges and
 
 ---
 
-### 🖥️ Work Environment & Performance
-Efficiency starts with the right foundation. My environment is tuned for maximum productivity:
+### 🖥️ Work Environment
+Optimized setups for maximum productivity and performance:
 
-* **Linux:** [CachyOS](https://cachyos.org/) (KDE Plasma) – Pure performance based on Arch Linux.
-* **Windows:** [Windows X-Lite](https://windowsxlite.com/) (Optimum 11 Pro) – Stripped-back, developer-focused OS.
+* **Linux Architecture:** [CachyOS](https://cachyos.org/) – Arch-based system tuned for speed.
+* **Windows Architecture:** [Windows X-Lite](https://windowsxlite.com/) – Optimized for developers and power users.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
@@ -47,35 +47,27 @@ Efficiency starts with the right foundation. My environment is tuned for maximum
 
 ---
 
-### 📊 GitHub Activity
+### 🤝 Partnerships & Key Projects
+Collaborating with industry leaders and delivering high-impact digital products.
+
+| Entity | Role | Domain | Link |
+| :--- | :--- | :--- | :--- |
+| **GrzywaczTech** | Founder & Developer | IT & Web Solutions | [🌐 Visit](https://www.grzywacztech.pl) |
+| **Era Lasera** | Strategic Partner | Industrial Restoration | [🌐 Visit](https://www.eralasera.pl) |
+| **Mordy Miska** | Lead Developer | Web Application | [🌐 Visit](https://mordymiska.pages.dev/) |
+
+#### 📸 Digital Showcase
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=grzywkaplrks&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grzywkaplrks&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <a href="https://www.grzywacztech.pl"><img width="30%" src="https://github.com/user-attachments/assets/5e23417e-03a6-4ed4-919f-aa5f7eb48a60" /></a>
+  <a href="https://www.eralasera.pl"><img width="30%" src="https://github.com/user-attachments/assets/934652b3-b98f-4225-8694-7daa178d5912" /></a>
+  <a href="https://mordymiska.pages.dev/"><img width="30%" src="https://github.com/user-attachments/assets/2a6b1da3-c4e5-401a-bce5-b1ed6bd25ce8" /></a>
 </p>
 
 ---
 
-### 📝 Featured Projects
+### 📞 Contact Details
+Ready to discuss new opportunities or technical collaborations.
 
-| Project | Links |
-| :--- | :--- |
-| **GrzywaczTech** | [🌐 Website](https://www.grzywacztech.pl) • [🐱 GitHub](https://github.com/grzywkaplrks/GrzywaczTech)|
-| **Era Lasera** | [🌐 Website](https://www.eralasera.pl) • [🐱 GitHub](https://github.com/grzywkaplrks/EraLasera)|
-| **Mordy Miska** | [🌐 Website](https://mordymiska.pages.dev/) • [🐱 GitHub](https://github.com/grzywkaplrks/Mordy-Miska)|
-
-#### 📸 Digital Portfolio Preview
-<p align="center">
-  <img width="30%" src="https://github.com/user-attachments/assets/5e23417e-03a6-4ed4-919f-aa5f7eb48a60" />
-  <img width="30%" src="https://github.com/user-attachments/assets/934652b3-b98f-4225-8694-7daa178d5912" />
-  <img width="30%" src="https://github.com/user-attachments/assets/2a6b1da3-c4e5-401a-bce5-b1ed6bd25ce8" />
-</p>
-
----
-
-### 🤝 Business Partners
-* **Era Lasera:** [www.eralasera.pl](https://www.eralasera.pl)
-
-### 📞 Connect With Me
-* **Phone:** [+48 790 260 595](tel:+48790260595)
-* **Email:** [grzywacztech@gmail.com](mailto:grzywacztech@gmail.com)
-* **Website:** [grzywacztech.pl](https://www.grzywacztech.pl)
+* **Business Phone:** [+48 790 260 595](tel:+48790260595)
+* **Official Email:** [grzywacztech@gmail.com](mailto:grzywacztech@gmail.com)
+* **Corporate Website:** [grzywacztech.pl](https://www.grzywacztech.pl)
