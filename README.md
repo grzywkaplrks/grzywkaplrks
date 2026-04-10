@@ -13,9 +13,12 @@
 ### 👨🏻‍💻 Professional Profile
 I work as an **ML to Code Developer**, focusing on the synergy between advanced Machine Learning models and high-performance software engineering. Through the integration of AI into the development workflow, I aim to deliver robust, modern, and scalable digital solutions tailored to specific needs.
 
-* 🚀 **Web Development**: Designing and implementing responsive digital experiences.
+* 🚀 **Web Development**: Designing and implementing high-end, responsive digital experiences.
 * 🤖 **AI Integration**: Utilizing ML workflows to optimize code generation, logic, and system efficiency.
-* 🛠️ **System Engineering**: Configuring high-performance Linux and Windows environments.
+* 🎓 **Academic Support**: Providing substantive and technical assistance with diploma theses and engineering projects.
+* 🛠️ **Hardware Solutions**: Custom building, diagnostics, and performance optimization of high-end computer sets.
+* ⚙️ **System Architecture**: Professional installation and precision configuration of Linux and Windows environments, including software ecosystems.
+* 🧠 **Technical Advisory**: Expert consulting in hardware selection and IT infrastructure optimization tailored to individual requirements.
 
 ---
 
@@ -36,8 +39,8 @@ Utilizing state-of-the-art intelligence to drive technical precision:
 ### 🖥️ High-Performance Work Environment
 My development foundation is built on optimized operating systems:
 
-* **Linux Architecture**: [CachyOS](https://cachyos.org/) – An Arch-based system tuned for computational speed.
-* **Windows Architecture**: [Windows X-Lite](https://windowsxlite.com/) – Optimized Windows 11 builds for power users.
+* **Linux Architecture**: [CachyOS](https://cachyos.org/) – An Arch-based system tuned for maximum computational speed.
+* **Windows Architecture**: [Windows X-Lite](https://windowsxlite.com/) – Optimized Windows 11 builds for power users and developers.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
