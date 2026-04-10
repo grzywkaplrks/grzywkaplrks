@@ -48,14 +48,14 @@ My development foundation is built on optimized operating systems tuned for maxi
 ---
 
 ### 🤝 Partnerships & Strategic Projects
-Collaborating with industry leaders and delivering high-impact digital products across diverse domains.
+Collaborating with industry leaders and delivering high-impact digital products.
 
-| Entity | Role | Domain | Status / Link |
+| Entity | Domain | Platform (Live) | Source (Code) |
 | :--- | :--- | :--- | :--- |
-| **GrzywaczTech** | Founder & Developer | IT & Web Solutions | [🌐 Visit Site](https://www.grzywacztech.pl) |
-| **Era Lasera** | Strategic Partner | Industrial Restoration | [🌐 Visit Site](https://www.eralasera.pl) |
-| **Konrad Grzywacz** | Partner | Branding & Development | [🚀 Soon] • [🐱 GitHub](https://github.com/grzywkaplrks/konradgrzywacz) |
-| **Mordy Miska** | Lead Developer | Web Application | [🌐 Visit Site](https://mordymiska.pages.dev/) |
+| **GrzywaczTech** | IT & Web Solutions | [🌐 Website](https://www.grzywacztech.pl) | [🐱 GitHub](https://github.com/grzywkaplrks/GrzywaczTech) |
+| **Era Lasera** | Industrial Restoration | [🌐 Website](https://www.eralasera.pl) | [🐱 GitHub](https://github.com/grzywkaplrks/EraLasera) |
+| **Konrad Grzywacz** | Branding & Dev | [🚀 Soon] | [🐱 GitHub](https://github.com/grzywkaplrks/konradgrzywacz) |
+| **Mordy Miska** | Web Application | [🌐 Website](https://mordymiska.pages.dev/) | [🐱 GitHub](https://github.com/grzywkaplrks/Mordy-Miska) |
 
 #### 📸 Digital Portfolio Showcase
 <p align="center">
