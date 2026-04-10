@@ -1,31 +1,29 @@
-# 🌐 Bartłomiej Grzywacz | GrzywaczTech
-### ML to Code Developer | Web Developer | Tech Enthusiast
+# <p align="center">✨ Bartłomiej Grzywacz</p>
+<p align="center">
+  <strong>ML to Code Developer | Web Developer | Linux & Windows Enthusiast</strong>
+</p>
 
-<p align="left">
-  <a href="https://www.grzywacztech.pl"><img src="https://img.shields.io/badge/Website-grzywacztech.pl-blue?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:grzywacztech@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <a href="https://www.grzywacztech.pl"><img src="https://img.shields.io/badge/Website-grzywacztech.pl-0052FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:grzywacztech@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 👨🏻‍💻 About Me
-I am an **ML to Code Developer** focused on bridging the gap between advanced Machine Learning models and functional, high-quality code. 
+I am a specialized **ML to Code Developer** dedicated to bridging the gap between advanced Machine Learning models and high-performance, functional code. My approach combines technical curiosity with a commitment to delivering tailor-made digital solutions that simplify complex workflows.
 
-As a Linux and Windows enthusiast, I combine technical curiosity with a commitment to delivering reliable, modern, and tailor-made digital solutions. My goal is to support clients by simplifying their daily workflows through the effective use of innovative technology.
-
-**What I do:**
-* 🚀 **Web Development:** Creating modern, responsive websites.
-* 🤖 **AI Integration:** Leveraging ML models to accelerate software development.
-* 🎓 **Academic Support:** Assisting with technical thesis projects.
-* 🛠️ **Hardware & Systems:** Building, optimizing, and maintaining high-performance workstations (Linux/Windows).
+* 🚀 **Web Development:** Crafting modern, responsive, and user-centric websites.
+* 🤖 **AI Integration:** Leveraging state-of-the-art ML models to accelerate and optimize software development.
+* 🛠️ **System Architecture:** Expert in building and optimizing high-performance workstations across Linux and Windows platforms.
 
 ---
 
-### 🤖 AI Stack & Work Areas
-I specialize in utilizing state-of-the-art AI models to optimize coding workflows and solve complex problems:
+### 🧠 AI Stack & Intelligence
+I harness the power of top-tier AI models to solve complex coding challenges and drive innovation:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" />
@@ -35,22 +33,11 @@ I specialize in utilizing state-of-the-art AI models to optimize coding workflow
 
 ---
 
-### 📝 Featured Projects
-Check out some of my recent work:
+### 🖥️ Work Environment & Performance
+Efficiency starts with the right foundation. My environment is tuned for maximum productivity:
 
-| Project | Links |
-| :--- | :--- |
-| **GrzywaczTech** | [🌐 Website](https://www.grzywacztech.pl) • [🐱 GitHub](https://github.com/grzywkaplrks/GrzywaczTech) |
-| **Era Lasera** | [🌐 Website](https://www.eralasera.pl) • [🐱 GitHub](https://github.com/grzywkaplrks/EraLasera) |
-| **Mordy Miska** | [🌐 Website](https://mordymiska.pages.dev/) • [🐱 GitHub](https://github.com/grzywkaplrks/Mordy-Miska) |
-
----
-
-### 🖥️ Work Environment
-I believe in using the best tools for the job to ensure maximum efficiency and performance.
-
-* **Linux:** [CachyOS](https://cachyos.org/) (KDE Plasma) - Pure performance based on Arch Linux.
-* **Windows:** [Windows X-Lite](https://windowsxlite.com/) (Optimum 11 Pro) - Optimized for development.
+* **Linux:** [CachyOS](https://cachyos.org/) (KDE Plasma) – Pure performance based on Arch Linux.
+* **Windows:** [Windows X-Lite](https://windowsxlite.com/) (Optimum 11 Pro) – Stripped-back, developer-focused OS.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
@@ -58,7 +45,25 @@ I believe in using the best tools for the job to ensure maximum efficiency and p
   <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white" />
 </p>
 
-#### 📸 Website Previews
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=grzywkaplrks&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grzywkaplrks&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 📝 Featured Projects
+
+| Project | Links |
+| :--- | :--- |
+| **GrzywaczTech** | [🌐 Website](https://www.grzywacztech.pl) • [🐱 GitHub](https://github.com/grzywkaplrks/GrzywaczTech)|
+| **Era Lasera** | [🌐 Website](https://www.eralasera.pl) • [🐱 GitHub](https://github.com/grzywkaplrks/EraLasera)|
+| **Mordy Miska** | [🌐 Website](https://mordymiska.pages.dev/) • [🐱 GitHub](https://github.com/grzywkaplrks/Mordy-Miska)|
+
+#### 📸 Digital Portfolio Preview
 <p align="center">
   <img width="30%" src="https://github.com/user-attachments/assets/5e23417e-03a6-4ed4-919f-aa5f7eb48a60" />
   <img width="30%" src="https://github.com/user-attachments/assets/934652b3-b98f-4225-8694-7daa178d5912" />
@@ -70,7 +75,7 @@ I believe in using the best tools for the job to ensure maximum efficiency and p
 ### 🤝 Business Partners
 * **Era Lasera:** [www.eralasera.pl](https://www.eralasera.pl)
 
-### 📞 Contact
-* **Phone:** +48 790 260 595
+### 📞 Connect With Me
+* **Phone:** [+48 790 260 595](tel:+48790260595)
 * **Email:** [grzywacztech@gmail.com](mailto:grzywacztech@gmail.com)
-* **Website:** [www.grzywacztech.pl](https://www.grzywacztech.pl)
+* **Website:** [grzywacztech.pl](https://www.grzywacztech.pl)
