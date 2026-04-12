@@ -58,7 +58,7 @@ Collaborating with industry leaders and delivering high-impact digital products 
 | **Mordy Miska** | Web Application | [🌐 Website](https://mordymiska.pages.dev/) | [🐱 GitHub](https://github.com/grzywkaplrks/Mordy-Miska) |
 
 #### 📸 Digital Portfolio Showcase
-<p align="center">
+<p align="left">
   <a href="https://www.grzywacztech.pl"><img width="30%" src="https://github.com/user-attachments/assets/5e23417e-03a6-4ed4-919f-aa5f7eb48a60" /></a>
   <a href="https://www.eralasera.pl"><img width="30%" src="https://github.com/user-attachments/assets/934652b3-b98f-4225-8694-7daa178d5912" /></a>
   <a href="https://mordymiska.pages.dev/"><img width="30%" src="https://github.com/user-attachments/assets/2a6b1da3-c4e5-401a-bce5-b1ed6bd25ce8" /></a>
