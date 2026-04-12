@@ -54,7 +54,7 @@ Collaborating with industry leaders and delivering high-impact digital products 
 | :--- | :--- | :--- | :--- |
 | **GrzywaczTech** | IT & Web Solutions | [🌐 Website](https://www.grzywacztech.pl) | [🐱 GitHub](https://github.com/grzywkaplrks/GrzywaczTech) |
 | **Era Lasera** | Industrial Restoration | [🌐 Website](https://www.eralasera.pl) | [🐱 GitHub](https://github.com/grzywkaplrks/EraLasera) |
-| **Konrad Grzywacz** | Branding & Dev | [🚀 Soon] | [🐱 GitHub](https://github.com/grzywkaplrks/konradgrzywacz) |
+| **Konrad Grzywacz** | Branding & Dev | [🌐 Website](https://konradgrzywacz.pl/) | [🐱 GitHub](https://github.com/grzywkaplrks/konradgrzywacz) |
 | **Mordy Miska** | Web Application | [🌐 Website](https://mordymiska.pages.dev/) | [🐱 GitHub](https://github.com/grzywkaplrks/Mordy-Miska) |
 
 #### 📸 Digital Portfolio Showcase
@@ -62,6 +62,7 @@ Collaborating with industry leaders and delivering high-impact digital products 
   <a href="https://www.grzywacztech.pl"><img width="30%" src="https://github.com/user-attachments/assets/5e23417e-03a6-4ed4-919f-aa5f7eb48a60" /></a>
   <a href="https://www.eralasera.pl"><img width="30%" src="https://github.com/user-attachments/assets/934652b3-b98f-4225-8694-7daa178d5912" /></a>
   <a href="https://mordymiska.pages.dev/"><img width="30%" src="https://github.com/user-attachments/assets/2a6b1da3-c4e5-401a-bce5-b1ed6bd25ce8" /></a>
+  <a href="https://konradgrzywacz.pl/"><img width="30%" alt="konradg" src="https://github.com/user-attachments/assets/e87e4ba6-1792-489f-9fa1-87e6034bded0" /></a>
 </p>
 
 ---
@@ -72,6 +73,3 @@ I am open to discussing new opportunities, high-performance setups, or technical
 * **Business Phone**: [+48 790 260 595](tel:+48790260595)
 * **Official Email**: [grzywacztech@gmail.com](mailto:grzywacztech@gmail.com)
 * **Corporate Website**: [grzywacztech.pl](https://www.grzywacztech.pl)
-
-* <img width="1920" height="1080" alt="konradg" src="https://github.com/user-attachments/assets/e87e4ba6-1792-489f-9fa1-87e6034bded0" />
-
