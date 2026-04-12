@@ -72,3 +72,6 @@ I am open to discussing new opportunities, high-performance setups, or technical
 * **Business Phone**: [+48 790 260 595](tel:+48790260595)
 * **Official Email**: [grzywacztech@gmail.com](mailto:grzywacztech@gmail.com)
 * **Corporate Website**: [grzywacztech.pl](https://www.grzywacztech.pl)
+
+* <img width="1920" height="1080" alt="konradg" src="https://github.com/user-attachments/assets/e87e4ba6-1792-489f-9fa1-87e6034bded0" />
+
