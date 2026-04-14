@@ -15,7 +15,7 @@ I work as an **ML to Code Developer**, focusing on the synergy between advanced 
 
 * 🚀 **Web Development**: Designing and implementing high-end, responsive digital experiences.
 * 🤖 **AI Integration**: Utilizing ML workflows to optimize code generation, logic, and overall system efficiency.
-* 🛠️ **System Engineering**: Architecting and configuring ultra-stable, high-performance Linux and Windows environments.
+* 🛠️ **System Engineering**: Configuring ultra-stable, high-performance Linux and Windows environments.
 
 ---
 
