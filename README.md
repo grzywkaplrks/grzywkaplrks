@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="Zrzut ekranu_20260414_195218" src="https://github.com/user-attachments/assets/7dfcf4de-9c10-4190-92ea-ef4e9d705e78" />
 # <p align="center">Bartłomiej Grzywacz</p>
 <p align="center">
   <strong>ML to Code Developer | Web Developer | Linux & Windows Architecture Enthusiast</strong>
@@ -65,7 +64,7 @@ Collaborating with industry leaders and delivering high-impact digital products 
   <a href="https://www.eralasera.pl"><img width="30%" src="https://github.com/user-attachments/assets/934652b3-b98f-4225-8694-7daa178d5912" /></a>
   <a href="https://mordymiska.pages.dev/"><img width="30%" src="https://github.com/user-attachments/assets/2a6b1da3-c4e5-401a-bce5-b1ed6bd25ce8" /></a>
   <a href="https://konradgrzywacz.pl/"><img width="30%" alt="konradg" src="https://github.com/user-attachments/assets/e87e4ba6-1792-489f-9fa1-87e6034bded0" /></a>
-  <a href="https://mariamachalabadania2026.grzywaczbartek3.workers.dev/"><img width="30%" alt="Maria Machała" src="https://github.com/user-attachments/assets/05470a6f-db7b-486b-bde0-a2a39b100941" /></a>
+  <a href="https://mariamachalabadania2026.grzywaczbartek3.workers.dev/"><img width="30%" alt="Maria Machała" src="https://github.com/user-attachments/assets/7dfcf4de-9c10-4190-92ea-ef4e9d705e78" /></a>
 </p>
 
 ---
