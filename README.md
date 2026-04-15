@@ -55,14 +55,14 @@ Collaborating with industry leaders and delivering high-impact digital products 
 | **GrzywaczTech** | IT & Web Solutions | [🌐 Website](https://www.grzywacztech.pl) | [🐱 GitHub](https://github.com/grzywkaplrks/GrzywaczTech) |
 | **Era Lasera** | Industrial Restoration | [🌐 Website](https://www.eralasera.pl) | [🐱 GitHub](https://github.com/grzywkaplrks/EraLasera) |
 | **Konrad Grzywacz** | Branding & Dev | [🌐 Website](https://konradgrzywacz.pl/) | [🐱 GitHub](https://github.com/grzywkaplrks/konradgrzywacz) |
-| **Mordy Miska** | Web Application | [🌐 Website](https://mordymiska.pages.dev/) | [🐱 GitHub](https://github.com/grzywkaplrks/Mordy-Miska) |
+| **Mordy Miska** | Web Application | [🌐 Website](https://mordymiska.grzywaczbartek3.workers.dev/) | [🐱 GitHub](https://github.com/grzywkaplrks/Mordy-Miska) |
 | **Maria Machała** | Academic Research UI | [🌐 Website](https://mariamachalabadania2026.grzywaczbartek3.workers.dev/) | [🐱 GitHub](https://github.com/grzywkaplrks/MariaMachala-badanie-WF-2026) |
 
 #### 📸 Digital Portfolio Showcase
 <p align="left">
   <a href="https://www.grzywacztech.pl"><img width="30%" src="https://github.com/user-attachments/assets/5e23417e-03a6-4ed4-919f-aa5f7eb48a60" /></a>
   <a href="https://www.eralasera.pl"><img width="30%" src="https://github.com/user-attachments/assets/934652b3-b98f-4225-8694-7daa178d5912" /></a>
-  <a href="https://mordymiska.pages.dev/"><img width="30%" src="https://github.com/user-attachments/assets/2a6b1da3-c4e5-401a-bce5-b1ed6bd25ce8" /></a>
+  <a href="https://mordymiska.grzywaczbartek3.workers.dev/"><img width="30%" src="https://github.com/user-attachments/assets/2a6b1da3-c4e5-401a-bce5-b1ed6bd25ce8" /></a>
   <a href="https://konradgrzywacz.pl/"><img width="30%" alt="konradg" src="https://github.com/user-attachments/assets/e87e4ba6-1792-489f-9fa1-87e6034bded0" /></a>
   <a href="https://mariamachalabadania2026.grzywaczbartek3.workers.dev/"><img width="30%" alt="Maria Machała" src="https://github.com/user-attachments/assets/7dfcf4de-9c10-4190-92ea-ef4e9d705e78" /></a>
 </p>
