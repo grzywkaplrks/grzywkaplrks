@@ -55,8 +55,8 @@ Collaborating with industry leaders and delivering high-impact digital products 
 | **GrzywaczTech** | IT & Web Solutions | [🌐 Website](https://www.grzywacztech.pl) | [🐱 GitHub](https://github.com/grzywkaplrks/GrzywaczTech) |
 | **Era Lasera** | Industrial Restoration | [🌐 Website](https://www.eralasera.pl) | [🐱 GitHub](https://github.com/grzywkaplrks/EraLasera) |
 | **Konrad Grzywacz** | Branding & Dev | [🌐 Website](https://konradgrzywacz.pl/) | [🐱 GitHub](https://github.com/grzywkaplrks/konradgrzywacz) |
-| **Mordy Miska** | Web Application | [🌐 Website](https://mordymiska.grzywaczbartek3.workers.dev/) | [🐱 GitHub](https://github.com/grzywkaplrks/Mordy-Miska) |
-| **Maria Machała** | Academic Research UI | [🌐 Website](https://mariamachalabadania2026.grzywaczbartek3.workers.dev/) | [🐱 GitHub](https://github.com/grzywkaplrks/MariaMachala-badanie-WF-2026) |
+| **Mordy Miska** | Web Application | [🌐 Website](https://mordymiska.grzywkaplrks.workers.dev/) | [🐱 GitHub](https://github.com/grzywkaplrks/Mordy-Miska) |
+| **Maria Machała** | Academic Research UI | [🌐 Website](https://mariamachalabadania2026.grzywkaplrks.workers.dev/) | [🐱 GitHub](https://github.com/grzywkaplrks/MariaMachala-badanie-WF-2026) |
 
 #### 📸 Digital Portfolio Showcase
 <p align="left">
