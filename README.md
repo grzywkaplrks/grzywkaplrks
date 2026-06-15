@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Zrzut ekranu_20260615_214940" src="https://github.com/user-attachments/assets/41f97339-ca69-4eec-904c-b2fb269cbaab" />
 # <p align="center">Bartłomiej Grzywacz</p>
 <p align="center">
   <strong>ML to Code Developer | Web Developer | Linux & Windows Architecture Enthusiast</strong>
