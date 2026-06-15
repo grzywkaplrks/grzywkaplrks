@@ -14,7 +14,7 @@
 I work as an **ML to Code Developer**, focusing on the synergy between advanced Machine Learning models and high-performance software engineering. Through the integration of AI into the development workflow, I aim to deliver robust, modern, and scalable digital solutions tailored to specific needs.
 
 * 🚀 **Web Development**: Designing and implementing high-end, responsive digital experiences.
-* 🤖 **AI Integration**: Utilizing ML workflows to optimize code generation, development logic, and overall operational efficiency.
+* 🤖 **AI Integration**: Utilizing ML workflows to optimize code generation, development logic, and operational efficiency.
 * 🛠️ **Environment Deployment**: Configuring ultra-stable, high-performance Linux and Windows environments.
 
 ---
@@ -57,6 +57,7 @@ Collaborating with industry leaders and delivering high-impact digital products 
 | **Konrad Grzywacz** | Branding & Dev | [🌐 Website](https://konradgrzywacz.pl/) | [🐱 GitHub](https://github.com/grzywkaplrks/konradgrzywacz) |
 | **Mordy Miska** | Web Application | [🌐 Website](https://mordymiska.grzywkaplrks.workers.dev/) | [🐱 GitHub](https://github.com/grzywkaplrks/Mordy-Miska) |
 | **Maria Machała** | Academic Research UI | [🌐 Website](https://mariamachalabadania2026.grzywkaplrks.workers.dev/) | [🐱 GitHub](https://github.com/grzywkaplrks/MariaMachala-badanie-WF-2026) |
+| **Projekt AWF Econ PL** | Web Application | [🌐 Website](https://projektawfeconpl.grzywkaplrks.workers.dev/) | [🐱 GitHub](https://github.com/grzywkaplrks/ProjektAWFEconPL) |
 
 #### 📸 Digital Portfolio Showcase
 <p align="left">
@@ -65,6 +66,7 @@ Collaborating with industry leaders and delivering high-impact digital products 
   <a href="https://mordymiska.grzywkaplrks.workers.dev/"><img width="30%" src="https://github.com/user-attachments/assets/2a6b1da3-c4e5-401a-bce5-b1ed6bd25ce8" /></a>
   <a href="https://konradgrzywacz.pl/"><img width="30%" alt="konradg" src="https://github.com/user-attachments/assets/e87e4ba6-1792-489f-9fa1-87e6034bded0" /></a>
   <a href="https://mariamachalabadania2026.grzywkaplrks.workers.dev/"><img width="30%" alt="Maria Machała" src="https://github.com/user-attachments/assets/7dfcf4de-9c10-4190-92ea-ef4e9d705e78" /></a>
+  <a href="https://projektawfeconpl.grzywkaplrks.workers.dev/"><img width="30%" alt="Projekt AWF Econ PL" src="https://github.com/user-attachments/assets/41f97339-ca69-4eec-904c-b2fb269cbaab" /></a>
 </p>
 
 ---
