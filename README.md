@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="Zrzut ekranu_20260615_214940" src="https://github.com/user-attachments/assets/2f87c7f6-fbab-4439-a843-1ae14a567af2" />
 # <p align="center">Bartłomiej Grzywacz</p>
 <p align="center">
   <strong>ML to Code Developer | Web Developer | Linux & Windows Architecture Enthusiast</strong>
@@ -58,6 +57,7 @@ Collaborating with industry leaders and delivering high-impact digital products 
 | **Konrad Grzywacz** | Branding & Dev | [🌐 Website](https://konradgrzywacz.pl/) | [🐱 GitHub](https://github.com/grzywkaplrks/konradgrzywacz) |
 | **Mordy Miska** | Web Application | [🌐 Website](https://mordymiska.grzywkaplrks.workers.dev/) | [🐱 GitHub](https://github.com/grzywkaplrks/Mordy-Miska) |
 | **Maria Machała** | Academic Research UI | [🌐 Website](https://mariamachalabadania2026.grzywkaplrks.workers.dev/) | [🐱 GitHub](https://github.com/grzywkaplrks/MariaMachala-badanie-WF-2026) |
+| **Projekt AWF Econ PL** | Web Application | [🌐 Website](https://projektawfeconpl.grzywkaplrks.workers.dev/) | [🐱 GitHub](https://github.com/grzywkaplrks/ProjektAWFEconPL) |
 
 #### 📸 Digital Portfolio Showcase
 <p align="left">
@@ -66,6 +66,7 @@ Collaborating with industry leaders and delivering high-impact digital products 
   <a href="https://mordymiska.grzywkaplrks.workers.dev/"><img width="30%" src="https://github.com/user-attachments/assets/2a6b1da3-c4e5-401a-bce5-b1ed6bd25ce8" /></a>
   <a href="https://konradgrzywacz.pl/"><img width="30%" alt="konradg" src="https://github.com/user-attachments/assets/e87e4ba6-1792-489f-9fa1-87e6034bded0" /></a>
   <a href="https://mariamachalabadania2026.grzywkaplrks.workers.dev/"><img width="30%" alt="Maria Machała" src="https://github.com/user-attachments/assets/7dfcf4de-9c10-4190-92ea-ef4e9d705e78" /></a>
+  <a href="https://projektawfeconpl.grzywkaplrks.workers.dev/"><img width="30%" alt="Projekt AWF Econ PL" src="TUTAJ_LINK_DO_ZDJĘCIA_Z_GÓRY_PLIKU" /></a>
 </p>
 
 ---
