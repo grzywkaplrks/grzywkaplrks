@@ -3,12 +3,10 @@
   <strong>ML to Code Developer | Web Developer | Linux & Windows Architecture Enthusiast</strong>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center"><a href="https://www.grzywacztech.pl"><img src="https://img.shields.io/badge/Website-grzywacztech.pl-0052FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a></td>
-    <td align="center"><a href="mailto:grzywacztech@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.grzywacztech.pl"><img src="https://img.shields.io/badge/Website-grzywacztech.pl-0052FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:grzywacztech@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -24,16 +22,9 @@ I work as an **ML to Code Developer**, focusing on the synergy between advanced 
 ### 🧠 Advanced AI Stack
 Utilizing state-of-the-art intelligence to drive innovation, speed, and technical precision:
 
-<table>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Manus-6A0DAD?style=for-the-badge&logo=ai&logoColor=white" /></td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /><img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" /><img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" /><img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" /><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /><img src="https://img.shields.io/badge/Manus-6A0DAD?style=for-the-badge&logo=ai&logoColor=white" />
+</p>
 
 ---
 
@@ -43,13 +34,9 @@ My development foundation is built on optimized operating systems tuned for maxi
 * **Linux Architecture**: [CachyOS](https://cachyos.org/) – An Arch-based system meticulously tuned for computational speed.
 * **Windows Architecture**: [Windows X-Lite](https://windowsxlite.com/) – Optimized, stripped-back Windows 11 builds for power users.
 
-<table>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/CachyOS-008080?style=for-the-badge&logo=linux&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Windows_X--Lite-0078D4?style=for-the-badge&logo=windows&logoColor=white" /></td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /><img src="https://img.shields.io/badge/CachyOS-008080?style=for-the-badge&logo=linux&logoColor=white" /><img src="https://img.shields.io/badge/Windows_X--Lite-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
 
 ---
 
