@@ -58,21 +58,21 @@ Collaborating with industry leaders and delivering high-impact digital products 
   <tr>
     <td width="33%" align="center">
       <a href="https://www.grzywacztech.pl">
-        <img src="https://github.com/user-attachments/assets/5e23417e-03a6-4ed4-919f-aa5f7eb48a60" width="100%" alt="GrzywaczTech" />
+        <img src="https://github.com/user-attachments/assets/5e23417e-03a6-4ed4-919f-aa5f7eb48a60" width="100%" style="border-radius: 10px;" alt="GrzywaczTech" />
       </a>
       <br />
       <sub><b>GrzywaczTech</b></sub>
     </td>
     <td width="33%" align="center">
       <a href="https://www.eralasera.pl">
-        <img src="https://github.com/user-attachments/assets/934652b3-b98f-4225-8694-7daa178d5912" width="100%" alt="Era Lasera" />
+        <img src="https://github.com/user-attachments/assets/934652b3-b98f-4225-8694-7daa178d5912" width="100%" style="border-radius: 10px;" alt="Era Lasera" />
       </a>
       <br />
       <sub><b>Era Lasera</b></sub>
     </td>
     <td width="33%" align="center">
       <a href="https://mordymiska.grzywkaplrks.workers.dev/">
-        <img src="https://github.com/user-attachments/assets/2a6b1da3-c4e5-401a-bce5-b1ed6bd25ce8" width="100%" alt="Mordy Miska" />
+        <img src="https://github.com/user-attachments/assets/2a6b1da3-c4e5-401a-bce5-b1ed6bd25ce8" width="100%" style="border-radius: 10px;" alt="Mordy Miska" />
       </a>
       <br />
       <sub><b>Mordy Miska</b></sub>
@@ -81,21 +81,21 @@ Collaborating with industry leaders and delivering high-impact digital products 
   <tr>
     <td width="33%" align="center">
       <a href="https://konradgrzywacz.pl/">
-        <img src="https://github.com/user-attachments/assets/e87e4ba6-1792-489f-9fa1-87e6034bded0" width="100%" alt="Konrad Grzywacz" />
+        <img src="https://github.com/user-attachments/assets/e87e4ba6-1792-489f-9fa1-87e6034bded0" width="100%" style="border-radius: 10px;" alt="Konrad Grzywacz" />
       </a>
       <br />
       <sub><b>Konrad Grzywacz</b></sub>
     </td>
     <td width="33%" align="center">
       <a href="https://mariamachalabadania2026.grzywkaplrks.workers.dev/">
-        <img src="https://github.com/user-attachments/assets/7dfcf4de-9c10-4190-92ea-ef4e9d705e78" width="100%" alt="Maria Machała" />
+        <img src="https://github.com/user-attachments/assets/7dfcf4de-9c10-4190-92ea-ef4e9d705e78" width="100%" style="border-radius: 10px;" alt="Maria Machała" />
       </a>
       <br />
       <sub><b>Maria Machała</b></sub>
     </td>
     <td width="33%" align="center">
       <a href="https://projektawfeconpl.grzywkaplrks.workers.dev/">
-        <img src="https://github.com/user-attachments/assets/41f97339-ca69-4eec-904c-b2fb269cbaab" width="100%" alt="Projekt AWF Econ PL" />
+        <img src="https://github.com/user-attachments/assets/41f97339-ca69-4eec-904c-b2fb269cbaab" width="100%" style="border-radius: 10px;" alt="Projekt AWF Econ PL" />
       </a>
       <br />
       <sub><b>Projekt AWF Econ PL</b></sub>
@@ -108,6 +108,6 @@ Collaborating with industry leaders and delivering high-impact digital products 
 ### 📞 Contact Details
 I am open to discussing new opportunities, high-performance setups, or technical collaborations.
 
-* **Business Phone**: [+48 790 260 595](tel:+48790260595)
-* **Official Email**: [grzywacztech@gmail.com](mailto:grzywacztech@gmail.com)
-* **Corporate Website**: [grzywacztech.pl](https://www.grzywacztech.pl)
+* **Business Phone**: [+48 790 260 595](tel:+48790260595)[cite: 1]
+* **Official Email**: [grzywacztech@gmail.com](mailto:grzywacztech@gmail.com)[cite: 1]
+* **Corporate Website**: [grzywacztech.pl](https://www.grzywacztech.pl)[cite: 1]
