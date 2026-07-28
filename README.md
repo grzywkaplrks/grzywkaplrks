@@ -22,7 +22,7 @@ I work as an **ML to Code Developer**, focusing on the synergy between advanced 
 ### 🧠 Advanced AI Stack
 Utilizing state-of-the-art intelligence to drive innovation, speed, and technical precision:
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /><img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" /><img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" /><img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" /><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /><img src="https://img.shields.io/badge/Manus-6A0DAD?style=for-the-badge&logo=ai&logoColor=white" />
 </p>
 
@@ -34,7 +34,7 @@ My development foundation is built on optimized operating systems tuned for maxi
 * **Linux Architecture**: [CachyOS](https://cachyos.org/) – An Arch-based system meticulously tuned for computational speed.
 * **Windows Architecture**: [Windows X-Lite](https://windowsxlite.com/) – Optimized, stripped-back Windows 11 builds for power users.
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /><img src="https://img.shields.io/badge/CachyOS-008080?style=for-the-badge&logo=linux&logoColor=white" /><img src="https://img.shields.io/badge/Windows_X--Lite-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
@@ -54,16 +54,52 @@ Collaborating with industry leaders and delivering high-impact digital products 
 
 #### 📸 Digital Portfolio Showcase
 
-<table>
+<table width="100%">
   <tr>
-    <td width="33%"><a href="https://www.grzywacztech.pl"><img src="https://github.com/user-attachments/assets/5e23417e-03a6-4ed4-919f-aa5f7eb48a60" /></a></td>
-    <td width="33%"><a href="https://www.eralasera.pl"><img src="https://github.com/user-attachments/assets/934652b3-b98f-4225-8694-7daa178d5912" /></a></td>
-    <td width="33%"><a href="https://mordymiska.grzywkaplrks.workers.dev/"><img src="https://github.com/user-attachments/assets/2a6b1da3-c4e5-401a-bce5-b1ed6bd25ce8" /></a></td>
+    <td width="33%" align="center">
+      <a href="https://www.grzywacztech.pl">
+        <img src="https://github.com/user-attachments/assets/5e23417e-03a6-4ed4-919f-aa5f7eb48a60" width="100%" alt="GrzywaczTech" />
+      </a>
+      <br />
+      <sub><b>GrzywaczTech</b></sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://www.eralasera.pl">
+        <img src="https://github.com/user-attachments/assets/934652b3-b98f-4225-8694-7daa178d5912" width="100%" alt="Era Lasera" />
+      </a>
+      <br />
+      <sub><b>Era Lasera</b></sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://mordymiska.grzywkaplrks.workers.dev/">
+        <img src="https://github.com/user-attachments/assets/2a6b1da3-c4e5-401a-bce5-b1ed6bd25ce8" width="100%" alt="Mordy Miska" />
+      </a>
+      <br />
+      <sub><b>Mordy Miska</b></sub>
+    </td>
   </tr>
   <tr>
-    <td width="33%"><a href="https://konradgrzywacz.pl/"><img alt="konradg" src="https://github.com/user-attachments/assets/e87e4ba6-1792-489f-9fa1-87e6034bded0" /></a></td>
-    <td width="33%"><a href="https://mariamachalabadania2026.grzywkaplrks.workers.dev/"><img alt="Maria Machała" src="https://github.com/user-attachments/assets/7dfcf4de-9c10-4190-92ea-ef4e9d705e78" /></a></td>
-    <td width="33%"><a href="https://projektawfeconpl.grzywkaplrks.workers.dev/"><img alt="Projekt AWF Econ PL" src="https://github.com/user-attachments/assets/41f97339-ca69-4eec-904c-b2fb269cbaab" /></a></td>
+    <td width="33%" align="center">
+      <a href="https://konradgrzywacz.pl/">
+        <img src="https://github.com/user-attachments/assets/e87e4ba6-1792-489f-9fa1-87e6034bded0" width="100%" alt="Konrad Grzywacz" />
+      </a>
+      <br />
+      <sub><b>Konrad Grzywacz</b></sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://mariamachalabadania2026.grzywkaplrks.workers.dev/">
+        <img src="https://github.com/user-attachments/assets/7dfcf4de-9c10-4190-92ea-ef4e9d705e78" width="100%" alt="Maria Machała" />
+      </a>
+      <br />
+      <sub><b>Maria Machała</b></sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://projektawfeconpl.grzywkaplrks.workers.dev/">
+        <img src="https://github.com/user-attachments/assets/41f97339-ca69-4eec-904c-b2fb269cbaab" width="100%" alt="Projekt AWF Econ PL" />
+      </a>
+      <br />
+      <sub><b>Projekt AWF Econ PL</b></sub>
+    </td>
   </tr>
 </table>
 
