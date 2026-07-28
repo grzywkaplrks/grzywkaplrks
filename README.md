@@ -121,6 +121,6 @@ Collaborating with industry leaders and delivering high-impact digital products 
 ### 📞 Contact Details
 I am open to discussing new opportunities, high-performance setups, or technical collaborations.
 
-* **Business Phone**: [+48 790 260 595](tel:+48790260595)[cite: 1]
-* **Official Email**: [grzywacztech@gmail.com](mailto:grzywacztech@gmail.com)[cite: 1]
-* **Corporate Website**: [grzywacztech.pl](https://www.grzywacztech.pl)[cite: 1]
+* **Business Phone**: [+48 790 260 595](tel:+48790260595)
+* **Official Email**: [grzywacztech@gmail.com](mailto:grzywacztech@gmail.com)
+* **Corporate Website**: [grzywacztech.pl](https://www.grzywacztech.pl)
