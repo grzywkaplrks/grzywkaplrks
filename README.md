@@ -3,10 +3,12 @@
   <strong>ML to Code Developer | Web Developer | Linux & Windows Architecture Enthusiast</strong>
 </p>
 
-<p align="center">
-  <a href="https://www.grzywacztech.pl"><img src="https://img.shields.io/badge/Website-grzywacztech.pl-0052FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:grzywacztech@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://www.grzywacztech.pl"><img src="https://img.shields.io/badge/Website-grzywacztech.pl-0052FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a></td>
+    <td align="center"><a href="mailto:grzywacztech@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a></td>
+  </tr>
+</table>
 
 ---
 
